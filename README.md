@@ -15,7 +15,6 @@
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los archivos del **Trabajo Integrador 1**.  
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
+📌 **Estructura del repositorio:**   
 - Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
 - Se busca mantener un código limpio, ordenado y bien documentado.  
